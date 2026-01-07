@@ -4,7 +4,7 @@ Welcome to my Portfolio! My name is Hai Nguyen, I consider myself an enthusiast 
 
 In this collection, I mainly demonstrate my journey and expertise in Machine Learning, Data Analytics, and Business Intelligence. It serves as a centralized hub for my projects, certifications, research, and technical notes.
 
-I wish to receive your feedback about my work and study in the field of Machine Learning. Your support will be highly valuable for me to upgrade my skills and contribute more to the Macchine Learning community. 
+I wish to receive your feedback about my work and study in the field of Machine Learning. Your support will be highly valuable for me to upgrade my skills and contribute more to the Machine Learning community. 
 
 ## 📂 Repository Contents
 
