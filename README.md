@@ -27,7 +27,7 @@ This folder contains my detailed reports and outputs during my internship at **F
 ### 4. Thesis Plan: AI in Education
 This section outlines my research proposal and thesis plan, focusing on the intersection of Machine Learning and Education.
 * **Topic:** "Reinforcement Learning for Early Educational Intervention: A Cost-Aware and Fairness-Aware Approach."
-* **Objective:** To leverage Reinforcement Learning (RL) to create intervention strategies that are both economically viable and ethically fair for early education.
+* **Objective:** To leverage Reinforcement Learning (RL) to create intervention strategies that are both economically viable and ethically fair for early education intervention.
 
 ### 5. Technical Notes: Data Preprocessing
 A collection of my personal documentation and best practices regarding **Data Cleaning and Preprocessing**. This includes techniques for:
